@@ -2,6 +2,8 @@
 
 A tool for managing TIA Portal V20 blocks using the Openness API.
 
+Link for the short yt presentation: https://youtu.be/zyyjSzqCNfo
+
 ## Prerequisites
 
 - TIA Portal V20 installed
