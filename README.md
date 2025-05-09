@@ -13,7 +13,7 @@ A tool for managing TIA Portal V20 blocks using the Openness API.
 
 The following files are required for the application to work but are **not** included in this repository due to licensing restrictions:
 
-![Required Files](logo_circle.png)
+![Required Files](files.png)
 
 Required files:
 - Siemens.Engineering.dll
