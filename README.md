@@ -13,11 +13,11 @@ A tool for managing TIA Portal V20 blocks using the Openness API.
 
 The following files are required for the application to work but are **not** included in this repository due to licensing restrictions:
 
-![Required Files](files.png)
-
 Required files:
 - Siemens.Engineering.dll
 - Siemens.Engineering.Hmi.dll
+
+![Required Files](files.png)
 
 ### Where to Get the Required Files
 
@@ -30,7 +30,7 @@ Required files:
 
 ## Installation
 
-1. Download plcwarsExporter.exe
+1. Download repository and extract to folder
 2. Copy the required Siemens files as described above to the same folder
 3. Run plcwarsExporter.exe
 
