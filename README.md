@@ -36,6 +36,12 @@ Required files:
 2. Copy the required Siemens files as described above to the same folder
 3. Run plcwarsExporter.exe
 
+## Current Known Limitations
+
+1. Does not work correctly with nested blocks under folders
+2. Does not export software units
+3. Password Protected projects are not functional
+
 ## License
 
 This project is licensed under the MIT License
